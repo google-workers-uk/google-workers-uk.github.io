@@ -8,7 +8,7 @@ permalink: /which-union
 
 ## Unite the Union
 
-![Unite logo](assets/images/unite-square.png){width=225px}
+<img alt="" src="assets/images/unite-square.png" width="225" style="float: right" />
 
 Unite is the largest union in the UK & Ireland, and the one with the most members at Google.
 
@@ -20,7 +20,7 @@ Unite is the largest union in the UK & Ireland, and the one with the most member
 
 ## United Tech & Allied Workers Union (UTAW)
 
-![UTAW logo](assets/images/utaw-square.png)
+<img alt="" src="assets/images/utaw-square.png" width="225" style="float: right" />
 
 UTAW is a very independent branch of the Communication Workers Union (CWU), grew out of the London Tech Workers Coalition (TWC).
 
