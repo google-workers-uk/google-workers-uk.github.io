@@ -1,6 +1,14 @@
+---
+layout: page
+title: "Which Union?"
+permalink: /which-union
+---
+
 # Which union should I join?
 
 ## Unite the Union
+
+![Unite logo](assets/images/unite-square.png){width=225px}
 
 Unite is the largest union in the UK & Ireland, and the one with the most members at Google.
 
@@ -11,6 +19,8 @@ Unite is the largest union in the UK & Ireland, and the one with the most member
 [Tech branch website](https://www.unitedigitaltech.org/)
 
 ## United Tech & Allied Workers Union (UTAW)
+
+![UTAW logo](assets/images/utaw-square.png)
 
 UTAW is a very independent branch of the Communication Workers Union (CWU), grew out of the London Tech Workers Coalition (TWC).
 
