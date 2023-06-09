@@ -22,8 +22,8 @@ Unite is the largest union in the UK & Ireland, and the one with the most member
 
 <img alt="" src="assets/images/utaw-square.png" width="225" style="float: right" />
 
-UTAW is a very independent branch of the Communication Workers Union (CWU), grew out of the London Tech Workers Coalition (TWC).
+UTAW is a very independent branch of the Communication Workers Union (CWU), and grew out of the London Tech Workers Coalition (TWC).
 
-**Main focus:** UTAW is a young union, extremely well organized and managed, with separate working groups for specific issues or questions. The newly appointed officer is open to all suggestions of projects and will gladly support you. This union is much simpler to navigate, but they may also lack a bit of experience with grievance hearings and such (so far! But they’re growing fast)
+**Main focus:** UTAW is a young union, extremely well organized and managed, with separate working groups for specific issues or questions. It's open to suggestions for new projects and ideas. This union is much simpler to navigate, and has a lighter workload than Unite at Google as it has a smaller membership base. UTAW can also provide advice and support if you have issues with management or HR at Google.
 
 [Join here](https://utaw.tech/)
